@@ -4,11 +4,13 @@ package javaStudy;
  * Created by dsm2017 on 2017-06-11.
  */
 public class Calculator {
-    double areaRectangle(double width) { // 정사각형의 넓이
-        return width * width;
+    static double pi = 3.1415926535897932384626433832795028;
+
+    static int plus(int x, int y) {
+        return x+y;
     }
 
-    double areaRectangle(double width, double height) { // 직사각형의 넓이
-        return width * height;
+    static int minus(int x, int y) {
+        return x-y;
     }
 }
