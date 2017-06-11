@@ -4,23 +4,11 @@ package javaStudy;
  * Created by dsm2017 on 2017-06-11.
  */
 public class Calculator {
-    int plus(int x, int y) {
-        int result = x+y;
-        return result;
+    double areaRectangle(double width) { // 정사각형의 넓이
+        return width * width;
     }
 
-    double avg(int x, int y) {
-        double sum = plus(x,y);
-        double result = sum / 2;
-        return result;
-    }
-
-    void execute() {
-        double result = avg(7,10);
-        println("실행결과 : " + result);
-    }
-
-    void println(String message) {
-        System.out.println(message);
+    double areaRectangle(double width, double height) { // 직사각형의 넓이
+        return width * height;
     }
 }
