@@ -4,21 +4,28 @@ package javaStudy;
  * Created by dsm2017 on 2017-06-11.
  */
 public class Car {
-    String model;
-    int speed;
+    private int speed;
+    private boolean stop;
 
-    Car(String model) {
-        this.model = model;
+    public int getSpeed() {
+        return speed;
     }
 
-    void setSpeed(int speed) {
-        this.speed = speed;
-    }
-
-    void run() {
-        for(int i=10;i<=50;i+=10) {
-            this.setSpeed(i);
-            System.out.println(this.model + "가 달립니다.(시속 : " + this.speed + "km/h)");
+    public void setSpeed(int speed) {
+        if(speed < 0) {
+            this.speed = 0;
+            return;
+        } else {
+            this.speed = speed;
         }
+    }
+
+    public boolean isStop() {
+        return stop;
+    }
+
+    public void setStop(boolean stop) {
+        this.stop = stop;
+        this.speed = 0;
     }
 }
