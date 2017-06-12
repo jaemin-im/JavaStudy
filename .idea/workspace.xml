@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eacd53a3-a9b0-4e23-a55c-f107a57df6b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/PrintAnnotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Cellphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,65 +21,49 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/Car.java">
+      <file leaf-file-name="Cellphone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/Cellphone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="197">
+              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/CarExample.java">
+      <file leaf-file-name="DmbCellPhone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+              <folding>
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotation.java">
+      <file leaf-file-name="DmbCellPhoneExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintAnnotationExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -130,6 +114,9 @@
         <option value="$PROJECT_DIR$/src/javaStudy/PrintAnnotation.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/Service.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/Cellphone.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java" />
       </list>
     </option>
   </component>
@@ -207,27 +194,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Application.PrintAnnotationExample">
-    <configuration default="false" name="SingletonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.SingletonExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DmbCellPhoneExample">
     <configuration default="false" name="PeopleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -296,6 +263,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="javaStudy.PrintAnnotationExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaStudy" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DmbCellPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="javaStudy.DmbCellPhoneExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -756,19 +743,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SingletonExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PeopleExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EarthExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CarExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrintAnnotationExample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PeopleExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EarthExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CarExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PrintAnnotationExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DmbCellPhoneExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrintAnnotationExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CarExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EarthExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PeopleExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SingletonExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DmbCellPhoneExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PrintAnnotationExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CarExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EarthExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PeopleExample" />
       </list>
     </recent_temporary>
   </component>
@@ -794,15 +781,15 @@
       <workItem from="1497140219874" duration="2929000" />
       <workItem from="1497177095202" duration="5810000" />
       <workItem from="1497186861397" duration="6037000" />
-      <workItem from="1497241127282" duration="303000" />
+      <workItem from="1497241127282" duration="3093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15541000" />
+    <option name="totallyTimeSpent" value="18331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1054,6 +1041,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,8 +1149,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="570">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/Cellphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding />
         </state>
       </provider>
