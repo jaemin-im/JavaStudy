@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eacd53a3-a9b0-4e23-a55c-f107a57df6b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Phone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/PhoneExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/SmartPhone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/AnimalExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Dog.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,44 +22,58 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Phone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmartPhone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/SmartPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhoneExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/PhoneExample.java">
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnimalExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaStudy/AnimalExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,6 +137,10 @@
         <option value="$PROJECT_DIR$/src/javaStudy/Phone.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/SmartPhone.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/PhoneExample.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/Animal.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/Dog.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/Cat.java" />
+        <option value="$PROJECT_DIR$/src/javaStudy/AnimalExample.java" />
       </list>
     </option>
   </component>
@@ -199,7 +218,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Application.PhoneExample">
+  <component name="RunManager" selected="Application.AnimalExample">
     <configuration default="false" name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -208,26 +227,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="javaStudy.CarExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DmbCellPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.DmbCellPhoneExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -288,6 +287,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="javaStudy.PhoneExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaStudy" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AnimalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="javaStudy.AnimalExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -749,18 +768,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.CarExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DmbCellPhoneExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StudentExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SupersonicAirplaneExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PhoneExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StudentExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SupersonicAirplaneExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PhoneExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AnimalExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PhoneExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CarExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SupersonicAirplaneExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StudentExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DmbCellPhoneExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnimalExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PhoneExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CarExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SupersonicAirplaneExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StudentExample" />
       </list>
     </recent_temporary>
   </component>
@@ -788,15 +807,15 @@
       <workItem from="1497186861397" duration="6037000" />
       <workItem from="1497241127282" duration="3690000" />
       <workItem from="1497272690664" duration="3297000" />
-      <workItem from="1497276425971" duration="554000" />
+      <workItem from="1497276425971" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22779000" />
+    <option name="totallyTimeSpent" value="23304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -847,39 +866,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#537#538#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/CarExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStudy/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1224,6 +1210,54 @@
         <state relative-caret-position="228">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/AnimalExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
