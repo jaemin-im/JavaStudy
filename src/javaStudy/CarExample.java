@@ -4,22 +4,31 @@ package javaStudy;
  * Created by dsm2017 on 2017-06-11.
  */
 public class CarExample {
-    public static void main(String[] args) {
-        Car myCar = new Car();
+    public static void main(String args[]) {
+        Car car = new Car();
 
-        // 잘못된 속도 변경
-        myCar.setSpeed(-50);
+        for(int i=1;i<=5;i++) {
+            int problemLocation = car.run();
 
-        System.out.println("현재 속도 : " + myCar.getSpeed());
-
-        // 올바른 속도 변경
-        myCar.setSpeed(60);
-
-        // 멈춤
-        if(!myCar.isStop()) {
-            myCar.setStop(true);
+            switch(problemLocation) {
+                case 1:
+                    System.out.println("앞왼쪽 HankookTire로 교체");
+                    car.frontLeftTire = new HankookTire("앞왼쪽", 15);
+                    break;
+                case 2:
+                    System.out.println("앞오른쪽 KumhoTire로 교체");
+                    car.frontLeftTire = new HankookTire("앞오른쪽", 13);
+                    break;
+                case 3:
+                    System.out.println("뒤왼쪽 HankookTire로 교체");
+                    car.frontLeftTire = new HankookTire("뒤왼쪽", 14);
+                    break;
+                case 4:
+                    System.out.println("뒤오른쪽 HankookTire로 교체");
+                    car.frontLeftTire = new HankookTire("뒤오른쪽", 17);
+                    break;
+            }
+            System.out.println("-------------------------------");
         }
-
-        System.out.println("현재 속도 : " + myCar.getSpeed());
     }
 }
