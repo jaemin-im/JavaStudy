@@ -5,7 +5,8 @@ import java.awt.*;
 /**
  * Created by dsm2017 on 2017-06-14.
  */
-public class BeepTask implements Runnable {
+public class BeepThread extends Thread {
+    @Override
     public void run() {
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         for(int i=0;i<5;i++) {
@@ -14,4 +15,3 @@ public class BeepTask implements Runnable {
         }
     }
 }
-
