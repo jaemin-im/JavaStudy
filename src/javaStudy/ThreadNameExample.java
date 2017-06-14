@@ -3,6 +3,7 @@ package javaStudy;
 /**
  * Created by dsm2017 on 2017-06-14.
  */
+/*
 public class ThreadNameExample {
     public static void main(String[] args) {
         Thread mainThread = Thread.currentThread();
@@ -17,3 +18,4 @@ public class ThreadNameExample {
         threadB.start();
     }
 }
+*/

@@ -3,7 +3,7 @@ package javaStudy;
 /**
  * Created by dsm2017 on 2017-06-14.
  */
-public class YieldExample {
+/*public class YieldExample {
     public static void main(String[] args) {
         ThreadA threadA = new ThreadA();
         ThreadB threadB = new ThreadB();
@@ -30,3 +30,4 @@ public class YieldExample {
         threadB.stop = true;
     }
 }
+*/

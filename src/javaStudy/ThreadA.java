@@ -4,17 +4,16 @@ package javaStudy;
  * Created by dsm2017 on 2017-06-14.
  */
 public class ThreadA extends Thread {
-    public boolean stop = false; // 종료 플래그
-    public boolean work = true; // 작업 진행 여부 플래그
+    private WorkObject workObject;
 
+    public ThreadA(WorkObject workObject) {
+        this.workObject = workObject;
+    }
+
+    @Override
     public void run() {
-        while (!stop) {
-            if(work) {
-                System.out.println("ThreadA 작업 내용");
-            } else {
-                Thread.yield();
-            }
+        for(int i=0;i<10;i++) {
+            workObject.methodA();
         }
-        System.out.println("ThreadA 종료");
     }
 }
