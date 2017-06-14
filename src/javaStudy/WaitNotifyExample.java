@@ -5,12 +5,12 @@ package javaStudy;
  */
 public class WaitNotifyExample {
     public static void main(String[] args) {
-        WorkObject sharedObject = new WorkObject();
+        DataBox dataBox = new DataBox();
 
-        ThreadA threadA = new ThreadA(sharedObject);
-        ThreadB threadB = new ThreadB(sharedObject);
+        ProducerThread producerThread = new ProducerThread(dataBox);
+        ConsumerThread consumerThread = new ConsumerThread(dataBox);
 
-        threadA.start();
-        threadB.start();
+        producerThread.start();
+        consumerThread.start();
     }
 }
