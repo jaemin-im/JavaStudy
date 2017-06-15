@@ -3,7 +3,7 @@ package javastudy;
 /**
  * Created by dsm2017 on 2017-06-15.
  */
-
+/*
 public class MyFunctionalInterfaceExample {
     public static void main(String[] args) {
         MyFunctionalInterface fi;
@@ -28,3 +28,4 @@ public class MyFunctionalInterfaceExample {
         return (x+y);
     }
 }
+*/

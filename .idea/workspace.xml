@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eacd53a3-a9b0-4e23-a55c-f107a57df6b3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javastudy/UsingThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javastudy/UsingThisExample.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaStudy/javastudy/MyFunctionalInterfaceExample.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaStudy/javastudy/MyFunctionalInterface.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/javastudy/MyFunctionalInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java" afterPath="$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javastudy/MyFunctionalInterfaceExample.java" afterPath="$PROJECT_DIR$/src/javastudy/MyFunctionalInterfaceExample.java" />
     </list>
@@ -33,22 +38,29 @@
       <file leaf-file-name="MyFunctionalInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFunctionalInterfaceExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javastudy/MyFunctionalInterfaceExample.java">
+      <file leaf-file-name="UsingThis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/UsingThis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingThisExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/UsingThisExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javaStudy/BeepPrintExample1.java" />
-        <option value="$PROJECT_DIR$/src/javaStudy/BeepPrintExample2.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/BeepThread.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/BeepTask.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/BeepPrintExample3.java" />
@@ -124,8 +134,10 @@
         <option value="$PROJECT_DIR$/src/javastudy/InterruptExample.java" />
         <option value="$PROJECT_DIR$/src/javastudy/ProductExample.java" />
         <option value="$PROJECT_DIR$/src/javastudy/ChildProductAndStorageExample.java" />
-        <option value="$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java" />
         <option value="$PROJECT_DIR$/src/javastudy/MyFunctionalInterfaceExample.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/UsingThis.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/UsingThisExample.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java" />
       </list>
     </option>
   </component>
@@ -220,27 +232,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Application.MyFunctionalInterfaceExample">
-    <configuration default="false" name="InterruptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="javastudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="javastudy.InterruptExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.UsingThisExample">
     <configuration default="false" name="DaemonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -309,6 +301,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="javastudy.MyFunctionalInterfaceExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaStudy" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UsingThisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javastudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="javastudy.UsingThisExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -769,19 +781,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.InterruptExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DaemonExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BoxExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CompareMethodExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyFunctionalInterfaceExample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DaemonExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BoxExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CompareMethodExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyFunctionalInterfaceExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UsingThisExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyFunctionalInterfaceExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CompareMethodExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BoxExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DaemonExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InterruptExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UsingThisExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyFunctionalInterfaceExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CompareMethodExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BoxExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DaemonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -826,7 +838,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51148000" />
+    <option name="totallyTimeSpent" value="52050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -850,7 +862,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26540285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26540285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -920,20 +932,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepPrintExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepPrintExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
@@ -1349,22 +1347,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/UsingThis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javastudy/MyFunctionalInterfaceExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/MyFunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/UsingThisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
