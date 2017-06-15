@@ -1,4 +1,4 @@
-package javaStudy;
+package javastudy;
 
 /**
  * Created by dsm2017 on 2017-06-15.

@@ -2,11 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eacd53a3-a9b0-4e23-a55c-f107a57df6b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/CompareMethodExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaStudy/Pair.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Account.java" afterPath="$PROJECT_DIR$/src/javastudy/Account.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/AccountExample.java" afterPath="$PROJECT_DIR$/src/javastudy/AccountExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Airplane.java" afterPath="$PROJECT_DIR$/src/javastudy/Airplane.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Animal.java" afterPath="$PROJECT_DIR$/src/javastudy/Animal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/AnimalExample.java" afterPath="$PROJECT_DIR$/src/javastudy/AnimalExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Audio.java" afterPath="$PROJECT_DIR$/src/javastudy/Audio.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/AutoSaveThread.java" afterPath="$PROJECT_DIR$/src/javastudy/AutoSaveThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BalanceInsufficientException.java" afterPath="$PROJECT_DIR$/src/javastudy/BalanceInsufficientException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BeepPrintExample1.java" afterPath="$PROJECT_DIR$/src/javastudy/BeepPrintExample1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BeepPrintExample2.java" afterPath="$PROJECT_DIR$/src/javastudy/BeepPrintExample2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BeepPrintExample3.java" afterPath="$PROJECT_DIR$/src/javastudy/BeepPrintExample3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BeepThread.java" afterPath="$PROJECT_DIR$/src/javastudy/BeepThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Box.java" afterPath="$PROJECT_DIR$/src/javastudy/Box.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BoxExample.java" afterPath="$PROJECT_DIR$/src/javastudy/BoxExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/BoxingMethodExample.java" afterPath="$PROJECT_DIR$/src/javastudy/BoxingMethodExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/CalcThread.java" afterPath="$PROJECT_DIR$/src/javastudy/CalcThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Calculator.java" afterPath="$PROJECT_DIR$/src/javastudy/Calculator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Car.java" afterPath="$PROJECT_DIR$/src/javastudy/Car.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/CarExample.java" afterPath="$PROJECT_DIR$/src/javastudy/CarExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Cat.java" afterPath="$PROJECT_DIR$/src/javastudy/Cat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/CatchByExceptionKindExample.java" afterPath="$PROJECT_DIR$/src/javastudy/CatchByExceptionKindExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/CatchOrderExample.java" afterPath="$PROJECT_DIR$/src/javastudy/CatchOrderExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Cellphone.java" afterPath="$PROJECT_DIR$/src/javastudy/Cellphone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/CompareMethodExample.java" afterPath="$PROJECT_DIR$/src/javastudy/CompareMethodExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Computer.java" afterPath="$PROJECT_DIR$/src/javastudy/Computer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ComputerExample.java" afterPath="$PROJECT_DIR$/src/javastudy/ComputerExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ConsumerThread.java" afterPath="$PROJECT_DIR$/src/javastudy/ConsumerThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/DataBox.java" afterPath="$PROJECT_DIR$/src/javastudy/DataBox.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Dog.java" afterPath="$PROJECT_DIR$/src/javastudy/Dog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Earth.java" afterPath="$PROJECT_DIR$/src/javastudy/Earth.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/EnumWeekExample.java" afterPath="$PROJECT_DIR$/src/javastudy/EnumWeekExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/FileInputStream.java" afterPath="$PROJECT_DIR$/src/javastudy/FileInputStream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/HankookTire.java" afterPath="$PROJECT_DIR$/src/javastudy/HankookTire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/JoinExample.java" afterPath="$PROJECT_DIR$/src/javastudy/JoinExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Key.java" afterPath="$PROJECT_DIR$/src/javastudy/Key.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/KeyExample.java" afterPath="$PROJECT_DIR$/src/javastudy/KeyExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Korean.java" afterPath="$PROJECT_DIR$/src/javastudy/Korean.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/KumhoTire.java" afterPath="$PROJECT_DIR$/src/javastudy/KumhoTire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/MainThreadExample.java" afterPath="$PROJECT_DIR$/src/javastudy/MainThreadExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Member.java" afterPath="$PROJECT_DIR$/src/javastudy/Member.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/MemberExample.java" afterPath="$PROJECT_DIR$/src/javastudy/MemberExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/MultiCatchExample.java" afterPath="$PROJECT_DIR$/src/javastudy/MultiCatchExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Pair.java" afterPath="$PROJECT_DIR$/src/javastudy/Pair.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/People.java" afterPath="$PROJECT_DIR$/src/javastudy/People.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PeopleExample.java" afterPath="$PROJECT_DIR$/src/javastudy/PeopleExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Phone.java" afterPath="$PROJECT_DIR$/src/javastudy/Phone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PhoneExample.java" afterPath="$PROJECT_DIR$/src/javastudy/PhoneExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PrintAnnotation.java" afterPath="$PROJECT_DIR$/src/javastudy/PrintAnnotation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java" afterPath="$PROJECT_DIR$/src/javastudy/PrintAnnotationExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PrintThread2.java" afterPath="$PROJECT_DIR$/src/javastudy/PrintThread2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/PriorityExample.java" afterPath="$PROJECT_DIR$/src/javastudy/PriorityExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ProducerThread.java" afterPath="$PROJECT_DIR$/src/javastudy/ProducerThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Product.java" afterPath="$PROJECT_DIR$/src/javastudy/Product.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ProductExample.java" afterPath="$PROJECT_DIR$/src/javastudy/ProductExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/RemoteControl.java" afterPath="$PROJECT_DIR$/src/javastudy/RemoteControl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/RemoteControllerExample.java" afterPath="$PROJECT_DIR$/src/javastudy/RemoteControllerExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Service.java" afterPath="$PROJECT_DIR$/src/javastudy/Service.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Singleton.java" afterPath="$PROJECT_DIR$/src/javastudy/Singleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SingletonExample.java" afterPath="$PROJECT_DIR$/src/javastudy/SingletonExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SleepExample.java" afterPath="$PROJECT_DIR$/src/javastudy/SleepExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SmartPhone.java" afterPath="$PROJECT_DIR$/src/javastudy/SmartPhone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/StatePrintThread.java" afterPath="$PROJECT_DIR$/src/javastudy/StatePrintThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/StringEqualsExample.java" afterPath="$PROJECT_DIR$/src/javastudy/StringEqualsExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Student.java" afterPath="$PROJECT_DIR$/src/javastudy/Student.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/StudentExample.java" afterPath="$PROJECT_DIR$/src/javastudy/StudentExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SumThread.java" afterPath="$PROJECT_DIR$/src/javastudy/SumThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SupersonicAirplane.java" afterPath="$PROJECT_DIR$/src/javastudy/SupersonicAirplane.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/SupersonicAirplaneExample.java" afterPath="$PROJECT_DIR$/src/javastudy/SupersonicAirplaneExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/TargetThread.java" afterPath="$PROJECT_DIR$/src/javastudy/TargetThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Television.java" afterPath="$PROJECT_DIR$/src/javastudy/Television.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/TelevisionExample.java" afterPath="$PROJECT_DIR$/src/javastudy/TelevisionExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ThreadA.java" afterPath="$PROJECT_DIR$/src/javastudy/ThreadA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ThreadB.java" afterPath="$PROJECT_DIR$/src/javastudy/ThreadB.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ThreadNameExample.java" afterPath="$PROJECT_DIR$/src/javastudy/ThreadNameExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ThreadStateExample.java" afterPath="$PROJECT_DIR$/src/javastudy/ThreadStateExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/ThrowsExample.java" afterPath="$PROJECT_DIR$/src/javastudy/ThrowsExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/TryCatchFinallyRuntimeExceptionExample.java" afterPath="$PROJECT_DIR$/src/javastudy/TryCatchFinallyRuntimeExceptionExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/TryWithResourceExample.java" afterPath="$PROJECT_DIR$/src/javastudy/TryWithResourceExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/User1.java" afterPath="$PROJECT_DIR$/src/javastudy/User1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/User2.java" afterPath="$PROJECT_DIR$/src/javastudy/User2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Util.java" afterPath="$PROJECT_DIR$/src/javastudy/Util.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/WaitNotifyExample.java" afterPath="$PROJECT_DIR$/src/javastudy/WaitNotifyExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/Week.java" afterPath="$PROJECT_DIR$/src/javastudy/Week.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/WorkObject.java" afterPath="$PROJECT_DIR$/src/javastudy/WorkObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/javaStudy/YieldExample.java" afterPath="$PROJECT_DIR$/src/javastudy/YieldExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/BoxingMethodExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/BoxingMethodExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/Util.java" afterPath="$PROJECT_DIR$/src/javaStudy/Util.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/BeepTask.java" afterPath="$PROJECT_DIR$/src/javaStudy/BeepTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/DaemonExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/DaemonExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java" afterPath="$PROJECT_DIR$/src/javaStudy/DmbCellPhone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/DmbCellPhoneExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/EarthExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/EarthExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/InterruptExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/InterruptExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/KoreaExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/KoreaExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/Tire.java" afterPath="$PROJECT_DIR$/src/javaStudy/Tire.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaStudy/TryCatchFinallyExample.java" afterPath="$PROJECT_DIR$/src/javaStudy/TryCatchFinallyExample.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,17 +124,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/Util.java">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/Util.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/Pair.java">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
               <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
@@ -63,10 +153,10 @@
         </entry>
       </file>
       <file leaf-file-name="CompareMethodExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaStudy/CompareMethodExample.java">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/CompareMethodExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="375">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="e#189#206#0" expanded="true" />
                 <element signature="e#259#276#0" expanded="true" />
@@ -99,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javaStudy/CatchOrderExample.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/MultiCatchExample.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/FileInputStream.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/TryWithResourceExample.java" />
@@ -150,6 +239,7 @@
         <option value="$PROJECT_DIR$/src/javaStudy/Pair.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/CompareMethodExample.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/BoxingMethodExample.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/CompareMethodExample.java" />
       </list>
     </option>
   </component>
@@ -225,7 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javaStudy" />
+              <option name="myItemId" value="javastudy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -248,7 +338,7 @@
     <configuration default="false" name="InterreuptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +358,11 @@
     <configuration default="false" name="InterruptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.InterruptExample" />
+      <option name="MAIN_CLASS_NAME" value="javastudy.InterruptExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -288,11 +378,11 @@
     <configuration default="false" name="DaemonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.DaemonExample" />
+      <option name="MAIN_CLASS_NAME" value="javastudy.DaemonExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -308,11 +398,11 @@
     <configuration default="false" name="BoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.BoxExample" />
+      <option name="MAIN_CLASS_NAME" value="javastudy.BoxExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -328,11 +418,11 @@
     <configuration default="false" name="CompareMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaStudy.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaStudy.CompareMethodExample" />
+      <option name="MAIN_CLASS_NAME" value="javastudy.CompareMethodExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -845,12 +935,12 @@
       <workItem from="1497444019814" duration="3895000" />
       <workItem from="1497449861033" duration="1659000" />
       <workItem from="1497451552305" duration="559000" />
-      <workItem from="1497479170458" duration="5339000" />
+      <workItem from="1497479170458" duration="5637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49844000" />
+    <option name="totallyTimeSpent" value="50142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,13 +965,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1852123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -893,7 +984,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -944,42 +1034,42 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ThrowsExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ThrowsExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BalanceInsufficientException.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BalanceInsufficientException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/AccountExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/AccountExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/MemberExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/MemberExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/PrintAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
@@ -989,21 +1079,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintAnnotationExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/PrintAnnotationExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Key.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Key.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/KeyExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/KeyExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
@@ -1011,21 +1101,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStudy/CalculatorExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Member.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Member.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BeepPrintExample1.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepPrintExample1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BeepPrintExample2.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepPrintExample2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
@@ -1039,7 +1129,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BeepTask.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1047,7 +1137,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BeepThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
@@ -1055,14 +1145,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BeepPrintExample3.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BeepPrintExample3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/PriorityExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/PriorityExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
@@ -1070,7 +1160,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/CalcThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/CalcThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
@@ -1078,7 +1168,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/User2.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/User2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
@@ -1089,7 +1179,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
@@ -1097,7 +1187,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/User1.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/User1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -1108,7 +1198,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/MainThreadExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/MainThreadExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -1116,7 +1206,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/StatePrintThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/StatePrintThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
@@ -1124,7 +1214,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/TargetThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/TargetThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
@@ -1132,7 +1222,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ThreadStateExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ThreadStateExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
@@ -1140,7 +1230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/SleepExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/SleepExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
@@ -1148,7 +1238,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/SumThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/SumThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
@@ -1161,7 +1251,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/JoinExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/JoinExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
@@ -1169,7 +1259,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
@@ -1177,7 +1267,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
@@ -1185,7 +1275,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/WorkObject.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/WorkObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
@@ -1193,7 +1283,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ThreadNameExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ThreadNameExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -1201,7 +1291,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/YieldExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/YieldExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
@@ -1209,7 +1299,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/DataBox.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/DataBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
@@ -1217,7 +1307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ProducerThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ProducerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
@@ -1225,7 +1315,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ConsumerThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ConsumerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
@@ -1233,7 +1323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/WaitNotifyExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/WaitNotifyExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
@@ -1241,7 +1331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/InterruptExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/InterruptExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
@@ -1249,7 +1339,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/PrintThread2.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/PrintThread2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -1257,7 +1347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/AutoSaveThread.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/AutoSaveThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
@@ -1268,7 +1358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/DaemonExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/DaemonExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -1276,7 +1366,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Box.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
@@ -1284,7 +1374,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BoxExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BoxExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -1295,7 +1385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
@@ -1303,7 +1393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1311,7 +1401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/ProductExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/ProductExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -1319,7 +1409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Pair.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
@@ -1336,15 +1426,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Util.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/BoxingMethodExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/BoxingMethodExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
@@ -1352,10 +1442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/CompareMethodExample.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/CompareMethodExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="375">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="e#189#206#0" expanded="true" />
             <element signature="e#259#276#0" expanded="true" />

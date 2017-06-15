@@ -1,4 +1,4 @@
-package javaStudy;
+package javastudy;
 
 import java.awt.*;
 
