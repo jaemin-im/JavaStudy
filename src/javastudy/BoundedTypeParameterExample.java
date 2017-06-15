@@ -1,4 +1,4 @@
-public class BoundedTypeParameterExample {
+/*public class BoundedTypeParameterExample {
     public static void main(String[] args) {
         // String str = Util.compare("a", "b"); <- String은 Number 타입이 아님
 
@@ -9,3 +9,4 @@ public class BoundedTypeParameterExample {
         System.out.println(result2);
     }
 }
+*/

@@ -1,4 +1,4 @@
-package javaStudy;
+package javastudy;
 
 /**
  * Created by dsm2017 on 2017-06-15.
@@ -13,3 +13,5 @@ public class Product<T, M> {
     public void setKind(T kind) { this.kind = kind; }
     public void setModel(M model) { this.model = model; }
 }
+
+class Tv {}

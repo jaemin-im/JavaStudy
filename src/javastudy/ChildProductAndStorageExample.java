@@ -3,7 +3,7 @@ package javastudy;
 /**
  * Created by dsm2017 on 2017-06-15.
  */
-public class ChildProductAndStorageExample {
+/*public class ChildProductAndStorageExample {
     public static void main(String[] args) {
         ChildProduct<Tv, String, String> product = new ChildProduct<>();
         product.setKind(new Tv());
@@ -15,3 +15,4 @@ public class ChildProductAndStorageExample {
         Tv tv = storage.get(0);
     }
 }
+*/

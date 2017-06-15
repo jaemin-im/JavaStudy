@@ -2,7 +2,7 @@ package javastudy;
 
 /**
  * Created by dsm2017 on 2017-06-11.
- */
+ *//*
 public class KoreaExample {
     public static void main(String[] args) {
         Korean k1 = new Korean("박자바", "011225-1234567");
@@ -14,3 +14,4 @@ public class KoreaExample {
         System.out.println("k2.ssn : " + k2.ssn);
     }
 }
+*/

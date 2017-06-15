@@ -3,7 +3,7 @@ package javastudy;
 /**
  * Created by dsm2017 on 2017-06-15.
  */
-public class InterruptExample {
+/*public class InterruptExample {
     public static void main(String[] args) {
         Thread thread = new PrintThread2();
         thread.start();
@@ -13,3 +13,4 @@ public class InterruptExample {
         thread.interrupt();
     }
 }
+*/

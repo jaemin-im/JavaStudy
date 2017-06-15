@@ -3,6 +3,7 @@ package javastudy;
 /**
  * Created by dsm2017 on 2017-06-12.
  */
+/*
 public class DmbCellPhone extends Cellphone{
     int channel;
 
@@ -25,3 +26,4 @@ public class DmbCellPhone extends Cellphone{
         System.out.println("DMB 방송 수신을 멈춥니다.");
     }
 }
+*/
